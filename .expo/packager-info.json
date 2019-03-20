@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 496,
+  "expoServerNgrokUrl": "https://gn-zkb.anonymous.weather.exp.direct",
+  "packagerNgrokUrl": "https://packager.gn-zkb.anonymous.weather.exp.direct",
+  "ngrokPid": 18404,
+  "webpackServerPort": null
+}
